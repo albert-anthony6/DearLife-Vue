@@ -1,24 +1,29 @@
-# dearlife-vue
+# DearLife-Vue - Albert Valdes
 
-## Project setup
-```
-npm install
-```
+**Version 1.0.0**
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+A Full Stack project made using Vue.js, Express, Node, MongoDB, and Mongoose. Users are able to sign up, log in, and create posts on a numer of categorized topics. CRUD methods are implemented so that users have the ability to get, create, update, and delete posts.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+---
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Built With
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Vue.js
+
+- Node.js
+
+- Express
+
+- MongoDB
+
+- Mongoose
+
+- Font Awesome
+
+## Acknowledgments
+
+- [Font Awesome](https://fontawesome.com/?from=io%2F) - Icons used
+
+## License and copyright
+
+© Albert Valdes, https://github.com/albert-anthony6

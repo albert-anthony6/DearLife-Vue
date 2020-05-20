@@ -32,10 +32,11 @@ export default {
   }
 
   body{
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
     height: 100vh;
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 1.4rem;
     color: #fff;
     line-height: 1.4;
+    overflow-x: hidden;
   }
 </style>
